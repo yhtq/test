@@ -11,4 +11,4 @@ lean_lib «Lean4HardExample» where
 lean_exe «lean4hardexample» where
   root := `Main
 
-require mathlib from git "https://github.com/leanprover-community/mathlib4"@"v4.6.0"
+require mathlib from git "https://github.com/leanprover-community/mathlib4"@"v4.6.0-rc1"
